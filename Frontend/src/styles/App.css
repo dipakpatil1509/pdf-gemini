@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap');
+
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/dm-sans/DMSans-Bold.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'DMSans';
+    src: url('/fonts/dm-sans/DMSans-BoldItalic.ttf');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+  font-family: 'DMSans';
+  src: url('/fonts/dm-sans/DMSans-Italic.ttf');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'DMSans';
+  src: url('/fonts/dm-sans/DMSans-Medium.ttf');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DMSans';
+  src: url('/fonts/dm-sans/DMSans-MediumItalic.ttf');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'DMSans';
+  src: url('/fonts/dm-sans/DMSans-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+option {
+  color: black;
+}
